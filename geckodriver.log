@@ -5862,3 +5862,128 @@ DevTools listening on ws://127.0.0.1:65108/devtools/browser/e79e7c46-41da-4c70-b
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dining.sbu.ac.ir."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dining.sbu.ac.ir."
 1687326598634	Marionette	INFO	Stopped listening on port 65118
+1687712558846	geckodriver	INFO	Listening on 127.0.0.1:58660
+1687712559372	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58661" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofileNtaBNk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687712560052	Marionette	INFO	Marionette enabled
+2023-06-25 20:32:40.215 plugin-container[6113:3289426] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-25 20:32:40.216 plugin-container[6113:3289426] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-25 20:32:40.219 plugin-container[6113:3289426] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-25 20:32:40.219 plugin-container[6113:3289426] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-25 20:32:40.219 plugin-container[6113:3289436] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-25 20:32:40.219 plugin-container[6113:3289436] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1687712560312	Marionette	INFO	Listening on port 58670
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:58661
+Read port: 58670
+1687712560583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58661/devtools/browser/207874dd-dd0b-4182-8f9d-a95ed59dd9fe
+JavaScript warning: https://pagead2.googlesyndication.com/bg/jdpdYrpkibv-F-ZvbPHZN82lghlqt1OiHBdTY59cac0.js line 2 > eval line 697 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/jdpdYrpkibv-F-ZvbPHZN82lghlqt1OiHBdTY59cac0.js line 2 > eval line 1786 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/jdpdYrpkibv-F-ZvbPHZN82lghlqt1OiHBdTY59cac0.js line 2 > eval line 1960 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal10737418249/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:84:30\ninitialize@resource://devtools/client/fronts/inspector.js:73:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal10737418249/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:84:30\ninitialize@resource://devtools/client/fronts/inspector.js:73:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal10737418249/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:300:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+_getWalker@resource://devtools/client/fronts/inspector.js:84:30
+initialize@resource://devtools/client/fronts/inspector.js:73:12
+
+console.warn: "Listener for event 'frame' did not return a promise."
+1687712730503	geckodriver	INFO	Listening on 127.0.0.1:58866
+1687712731033	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58867" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofile2ojSL5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687712731808	Marionette	INFO	Marionette enabled
+2023-06-25 20:35:31.954 plugin-container[6246:3292395] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-25 20:35:31.954 plugin-container[6246:3292395] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-25 20:35:31.959 plugin-container[6246:3292395] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-25 20:35:31.959 plugin-container[6246:3292395] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-25 20:35:31.959 plugin-container[6246:3292397] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-25 20:35:31.959 plugin-container[6246:3292397] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1687712732054	Marionette	INFO	Listening on port 58874
+Read port: 58874
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:58867
+1687712732159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58867/devtools/browser/f4cd4d60-4b31-4b62-a29b-3315478c1754
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/jdpdYrpkibv-F-ZvbPHZN82lghlqt1OiHBdTY59cac0.js line 2 > eval line 7712 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: (new TypeError("watcher.browserElement.browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 193))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: (new TypeError("watcher.browserElement.browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 193))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1687712937148	geckodriver	INFO	Listening on 127.0.0.1:59107
+1687712937173	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59108" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofileScBFGA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687712937713	Marionette	INFO	Marionette enabled
+2023-06-25 20:38:57.859 plugin-container[6381:3295119] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-25 20:38:57.859 plugin-container[6381:3295119] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-25 20:38:57.863 plugin-container[6381:3295119] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-25 20:38:57.864 plugin-container[6381:3295119] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-25 20:38:57.864 plugin-container[6381:3295120] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-25 20:38:57.864 plugin-container[6381:3295120] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1687712937982	Marionette	INFO	Listening on port 59113
+Read port: 59113
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:59108
+1687712938087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59108/devtools/browser/f85d87d7-951a-41ac-b375-fb57672dc51a
+JavaScript warning: https://pagead2.googlesyndication.com/bg/jdpdYrpkibv-F-ZvbPHZN82lghlqt1OiHBdTY59cac0.js line 2 > eval line 2439 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/jdpdYrpkibv-F-ZvbPHZN82lghlqt1OiHBdTY59cac0.js line 2 > eval line 6570 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1687713022447	geckodriver	INFO	Listening on 127.0.0.1:59268
+1687713022471	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59269" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofile2olbrX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687713023097	Marionette	INFO	Marionette enabled
+2023-06-25 20:40:23.232 plugin-container[6487:3296793] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-25 20:40:23.233 plugin-container[6487:3296793] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-25 20:40:23.236 plugin-container[6487:3296793] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-25 20:40:23.236 plugin-container[6487:3296793] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-25 20:40:23.236 plugin-container[6487:3296801] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-25 20:40:23.236 plugin-container[6487:3296801] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1687713023345	Marionette	INFO	Listening on port 59274
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 59274
+WebDriver BiDi listening on ws://127.0.0.1:59269
+1687713023448	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59269/devtools/browser/4de86043-857c-4451-9ee7-cc9d9d5586fa
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1687713082560	geckodriver	INFO	Listening on 127.0.0.1:59408
+1687713082584	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59409" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofileD55JRm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687713083159	Marionette	INFO	Marionette enabled
+2023-06-25 20:41:23.306 plugin-container[6529:3297832] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-25 20:41:23.306 plugin-container[6529:3297832] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-25 20:41:23.309 plugin-container[6529:3297832] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-25 20:41:23.309 plugin-container[6529:3297832] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-25 20:41:23.310 plugin-container[6529:3297839] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-25 20:41:23.310 plugin-container[6529:3297839] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1687713083415	Marionette	INFO	Listening on port 59415
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:59409
+Read port: 59415
+1687713083693	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59409/devtools/browser/b873dd43-3420-4c0f-9665-ae4ee3a3646f
+JavaScript warning: https://pagead2.googlesyndication.com/bg/jdpdYrpkibv-F-ZvbPHZN82lghlqt1OiHBdTY59cac0.js line 2 > eval line 194 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/jdpdYrpkibv-F-ZvbPHZN82lghlqt1OiHBdTY59cac0.js line 2 > eval line 1596 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
