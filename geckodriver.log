@@ -30459,3 +30459,708 @@ WebDriver BiDi listening on ws://127.0.0.1:50463
 DevTools listening on ws://127.0.0.1:50463/devtools/browser/ac993d72-ef58-48c6-bb17-160a6c0c899e
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1688110772837	Marionette	INFO	Stopped listening on port 50470
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1688137976285	geckodriver	INFO	Listening on 127.0.0.1:51274
+1688137976769	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51275" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofilebuBxAE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688137977328	Marionette	INFO	Marionette enabled
+1688137977427	Marionette	INFO	Listening on port 51283
+2023-06-30 18:42:57.464 plugin-container[6241:36742] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 18:42:57.465 plugin-container[6241:36742] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-06-30 18:42:57.481 plugin-container[6241:36742] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 18:42:57.482 plugin-container[6241:36742] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 18:42:57.482 plugin-container[6241:36744] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 18:42:57.482 plugin-container[6241:36744] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 51283
+WebDriver BiDi listening on ws://127.0.0.1:51275
+1688137977585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51275/devtools/browser/a00692c3-f9b1-46c6-8b62-4714bf59d97b
+1688138033290	addons.xpi	ERROR	Failed to download system add-on addons-restricted-domains@mozilla.com: Error: Failed downloading via ServiceRequest, status: 0, channelStatus: 2147500036, errorCode: 2, reason: error(resource://gre/modules/addons/ProductAddonChecker.jsm:464:16) JS Stack trace: fail@ProductAddonChecker.jsm:464:16
+1688138411375	geckodriver	INFO	Listening on 127.0.0.1:51726
+1688138411897	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51727" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofile1Y8oll"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688138412522	Marionette	INFO	Marionette enabled
+1688138412623	Marionette	INFO	Listening on port 51734
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-06-30 18:50:12.673 plugin-container[6375:40773] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 18:50:12.673 plugin-container[6375:40773] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 18:50:12.676 plugin-container[6375:40773] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 18:50:12.677 plugin-container[6375:40773] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 18:50:12.677 plugin-container[6375:40778] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 18:50:12.677 plugin-container[6375:40778] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 51734
+WebDriver BiDi listening on ws://127.0.0.1:51727
+1688138412811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51727/devtools/browser/6b2b1c8b-4262-4827-9f2c-4626942b8fc6
+1688138547950	Marionette	INFO	Stopped listening on port 51734
+1688138552392	geckodriver	INFO	Listening on 127.0.0.1:51865
+1688138552908	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51866" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofileOCSIsj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688138553418	Marionette	INFO	Marionette enabled
+1688138553512	Marionette	INFO	Listening on port 51873
+Read port: 51873
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-06-30 18:52:33.553 plugin-container[6428:42257] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 18:52:33.553 plugin-container[6428:42257] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 18:52:33.557 plugin-container[6428:42257] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 18:52:33.557 plugin-container[6428:42257] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 18:52:33.557 plugin-container[6428:42259] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 18:52:33.557 plugin-container[6428:42259] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:51866
+1688138553672	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51866/devtools/browser/9477efa9-126d-409c-95a0-918dd0fba961
+1688138581224	Marionette	INFO	Stopped listening on port 51873
+1688138583403	geckodriver	INFO	Listening on 127.0.0.1:51916
+1688138583919	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51917" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofiledqCunH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688138584374	Marionette	INFO	Marionette enabled
+2023-06-30 18:53:04.529 plugin-container[6463:42858] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 18:53:04.529 plugin-container[6463:42858] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 18:53:04.532 plugin-container[6463:42858] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 18:53:04.532 plugin-container[6463:42858] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 18:53:04.532 plugin-container[6463:42867] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 18:53:04.532 plugin-container[6463:42867] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1688138584622	Marionette	INFO	Listening on port 51924
+Read port: 51924
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:51917
+1688138584717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51917/devtools/browser/fca0a487-4caa-4233-8ee0-8db43d6ba71e
+1688138626263	geckodriver	INFO	Listening on 127.0.0.1:51979
+1688138626775	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51980" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofileCFP0MQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688138627212	Marionette	INFO	Marionette enabled
+2023-06-30 18:53:47.338 plugin-container[6505:43535] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 18:53:47.338 plugin-container[6505:43535] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 18:53:47.341 plugin-container[6505:43535] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 18:53:47.341 plugin-container[6505:43535] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 18:53:47.342 plugin-container[6505:43537] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 18:53:47.342 plugin-container[6505:43537] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1688138627445	Marionette	INFO	Listening on port 51987
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 51987
+WebDriver BiDi listening on ws://127.0.0.1:51980
+1688138627540	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51980/devtools/browser/9883b28a-43a4-4b65-96f2-e86c74bbc3d7
+1688138647492	Marionette	INFO	Stopped listening on port 51987
+1688138691470	geckodriver	INFO	Listening on 127.0.0.1:52054
+1688138691983	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52055" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofileKoZAbN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688138692491	Marionette	INFO	Marionette enabled
+2023-06-30 18:54:52.624 plugin-container[6559:44339] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 18:54:52.624 plugin-container[6559:44339] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 18:54:52.627 plugin-container[6559:44339] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 18:54:52.627 plugin-container[6559:44339] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 18:54:52.627 plugin-container[6559:44346] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 18:54:52.627 plugin-container[6559:44346] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1688138692726	Marionette	INFO	Listening on port 52062
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 52062
+WebDriver BiDi listening on ws://127.0.0.1:52055
+1688138692838	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52055/devtools/browser/97b6fdba-a623-418e-8f03-9fee3069ee50
+1688138719686	Marionette	INFO	Stopped listening on port 52062
+1688138730347	geckodriver	INFO	Listening on 127.0.0.1:52105
+1688138730865	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52106" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofile0b8byv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688138731363	Marionette	INFO	Marionette enabled
+2023-06-30 18:55:31.496 plugin-container[6593:45002] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 18:55:31.496 plugin-container[6593:45002] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 18:55:31.499 plugin-container[6593:45002] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 18:55:31.499 plugin-container[6593:45002] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 18:55:31.500 plugin-container[6593:45008] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 18:55:31.500 plugin-container[6593:45008] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1688138731598	Marionette	INFO	Listening on port 52115
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:52106
+Read port: 52115
+1688138731833	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52106/devtools/browser/ab350a0c-db1f-4776-9139-3a369c35a74a
+1688138812407	Marionette	INFO	Stopped listening on port 52115
+1688138813948	Marionette	INFO	Stopped listening on port 51924
+1688138815603	Marionette	INFO	Stopped listening on port 51283
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1688138852220	geckodriver	INFO	Listening on 127.0.0.1:52226
+1688138852739	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52227" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofileVNwgao"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688138853269	Marionette	INFO	Marionette enabled
+1688138853362	Marionette	INFO	Listening on port 52235
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-06-30 18:57:33.401 plugin-container[6688:46309] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 18:57:33.402 plugin-container[6688:46309] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 18:57:33.406 plugin-container[6688:46309] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 18:57:33.406 plugin-container[6688:46309] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 18:57:33.407 plugin-container[6688:46315] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 18:57:33.407 plugin-container[6688:46315] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 52235
+WebDriver BiDi listening on ws://127.0.0.1:52227
+1688138853615	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52227/devtools/browser/e51ef51b-5232-4468-a9ea-dcce78e71a04
+1688138878952	geckodriver	INFO	Listening on 127.0.0.1:52271
+1688138879459	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52272" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofilehLlQZG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688138879988	Marionette	INFO	Marionette enabled
+2023-06-30 18:58:00.118 plugin-container[6721:46876] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 18:58:00.118 plugin-container[6721:46876] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 18:58:00.122 plugin-container[6721:46876] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 18:58:00.122 plugin-container[6721:46876] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 18:58:00.122 plugin-container[6721:46878] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 18:58:00.122 plugin-container[6721:46878] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1688138880227	Marionette	INFO	Listening on port 52281
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 52281
+WebDriver BiDi listening on ws://127.0.0.1:52272
+1688138880321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52272/devtools/browser/d67791ac-1c70-469b-b057-19c7e8a16932
+1688138910286	Marionette	INFO	Stopped listening on port 52281
+console.error: "DEPRECATION WARNING: Calling FileUtils.getDir(..., ..., true) causes main thread I/O and should be avoided especially during startup/shutdown\nYou may find more details about this deprecation at: https://bugzilla.mozilla.org/show_bug.cgi?id=921157\nresource://gre/modules/FileUtils.sys.mjs 62 FileUtils_getDir\nresource://gre/modules/UpdateService.sys.mjs 1056 getUpdateDirCreate\nresource://gre/modules/UpdateService.sys.mjs 1095 getUpdateFile\nresource://gre/modules/UpdateService.sys.mjs 4449 UM__loadXMLFileIntoArray\nresource://gre/modules/UpdateService.sys.mjs 4282 UpdateManager\nresource://gre/modules/XPCOMUtils.sys.mjs 137 defineLazyServiceGetter/<\nresource://gre/modules/UpdateService.sys.mjs 3381 get _pingSuffix\nresource://gre/modules/UpdateService.sys.mjs 3424 AUS__checkForBackgroundUpdates\nresource://gre/modules/UpdateService.sys.mjs 3369 AUS_notify\nresource://gre/modules/UpdateTimerManager.sys.mjs 205 TM_notify/</<\n"
+console.error: "DEPRECATION WARNING: Calling FileUtils.getDir(..., ..., true) causes main thread I/O and should be avoided especially during startup/shutdown\nYou may find more details about this deprecation at: https://bugzilla.mozilla.org/show_bug.cgi?id=921157\nresource://gre/modules/FileUtils.sys.mjs 62 FileUtils_getDir\nresource://gre/modules/UpdateService.sys.mjs 1056 getUpdateDirCreate\nresource://gre/modules/UpdateService.sys.mjs 1095 getUpdateFile\nresource://gre/modules/UpdateService.sys.mjs 774 getCanApplyUpdates\nresource://gre/modules/UpdateService.sys.mjs 3432 AUS__checkForBackgroundUpdates\nresource://gre/modules/UpdateService.sys.mjs 3369 AUS_notify\nresource://gre/modules/UpdateTimerManager.sys.mjs 205 TM_notify/</<\n"
+console.error: "DEPRECATION WARNING: Calling FileUtils.getDir(..., ..., true) causes main thread I/O and should be avoided especially during startup/shutdown\nYou may find more details about this deprecation at: https://bugzilla.mozilla.org/show_bug.cgi?id=921157\nresource://gre/modules/FileUtils.sys.mjs 62 FileUtils_getDir\nresource://gre/modules/UpdateService.sys.mjs 1056 getUpdateDirCreate\nresource://gre/modules/UpdateService.sys.mjs 1095 getUpdateFile\nresource://gre/modules/UpdateService.sys.mjs 863 aus_gCSUS\nresource://gre/modules/UpdateService.sys.mjs 932 getCanStageUpdates\nresource://gre/modules/UpdateService.sys.mjs 3441 AUS__checkForBackgroundUpdates\nresource://gre/modules/UpdateService.sys.mjs 3369 AUS_notify\nresource://gre/modules/UpdateTimerManager.sys.mjs 205 TM_notify/</<\n"
+1688138910410	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2147500036, errorCode: 2, reason: error
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+1688138912783	Marionette	INFO	Stopped listening on port 52235
+1688138967926	geckodriver	INFO	Listening on 127.0.0.1:52363
+1688138968447	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52364" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofileUJTqBb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688138969011	Marionette	INFO	Marionette enabled
+1688138969104	Marionette	INFO	Listening on port 52371
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-06-30 18:59:29.145 plugin-container[6757:47951] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 18:59:29.145 plugin-container[6757:47951] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 18:59:29.151 plugin-container[6757:47951] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 18:59:29.151 plugin-container[6757:47951] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 18:59:29.151 plugin-container[6757:47952] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 18:59:29.151 plugin-container[6757:47952] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 52371
+WebDriver BiDi listening on ws://127.0.0.1:52364
+1688138969261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52364/devtools/browser/a98d5a96-af56-4cbc-bee8-deb3c6a75f59
+1688139002060	Marionette	INFO	Stopped listening on port 52371
+1688139002531	addons.xpi	ERROR	Failed to download system add-on addons-restricted-domains@mozilla.com: Error: Failed downloading via ServiceRequest, status: 0, channelStatus: 2147500036, errorCode: 2, reason: error(resource://gre/modules/addons/ProductAddonChecker.jsm:464:16) JS Stack trace: fail@ProductAddonChecker.jsm:464:16
+console.error: services.settings: 
+  Message: StorageError: Storage error: Error: IndexedDB: main/doh-providers pruneAttachments() IndexedDB:  execute() The application is shutting down
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.sys.mjs:157:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:928:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:575:17
+
+console.error: (new Error("IndexedDB: main/ms-language-packs getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+1688139005104	geckodriver	INFO	Listening on 127.0.0.1:52417
+1688139005623	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52418" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofilewZs2mP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688139006062	Marionette	INFO	Marionette enabled
+2023-06-30 19:00:06.196 plugin-container[6785:48609] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 19:00:06.196 plugin-container[6785:48609] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 19:00:06.199 plugin-container[6785:48609] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 19:00:06.199 plugin-container[6785:48609] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 19:00:06.200 plugin-container[6785:48614] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 19:00:06.200 plugin-container[6785:48614] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1688139006305	Marionette	INFO	Listening on port 52427
+Read port: 52427
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:52418
+1688139006401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52418/devtools/browser/8479c036-5991-4be3-b53a-54bdcfba760c
+1688139124687	geckodriver	INFO	Listening on 127.0.0.1:52519
+1688139125199	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52520" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofileHJRemN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688139125675	Marionette	INFO	Marionette enabled
+2023-06-30 19:02:05.801 plugin-container[6816:49677] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 19:02:05.801 plugin-container[6816:49677] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 19:02:05.804 plugin-container[6816:49677] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 19:02:05.804 plugin-container[6816:49677] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 19:02:05.805 plugin-container[6816:49684] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 19:02:05.805 plugin-container[6816:49684] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1688139125913	Marionette	INFO	Listening on port 52529
+Read port: 52529
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:52520
+1688139126007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52520/devtools/browser/e02043b7-3ec3-4a4d-ba97-0fb984294291
+1688139192478	addons.xpi	ERROR	Failed to download system add-on addons-restricted-domains@mozilla.com: Error: Failed downloading via ServiceRequest, status: 0, channelStatus: 2147500036, errorCode: 2, reason: error(resource://gre/modules/addons/ProductAddonChecker.jsm:464:16) JS Stack trace: fail@ProductAddonChecker.jsm:464:16
+1688139224638	Marionette	INFO	Stopped listening on port 52529
+1688139269661	geckodriver	INFO	Listening on 127.0.0.1:52628
+1688139270183	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52629" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofile232Qcn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688139270712	Marionette	INFO	Marionette enabled
+1688139270812	Marionette	INFO	Listening on port 52636
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-06-30 19:04:30.856 plugin-container[6872:51036] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 19:04:30.856 plugin-container[6872:51036] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 19:04:30.863 plugin-container[6872:51036] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 19:04:30.863 plugin-container[6872:51036] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 19:04:30.863 plugin-container[6872:51040] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 19:04:30.863 plugin-container[6872:51040] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 52636
+WebDriver BiDi listening on ws://127.0.0.1:52629
+1688139270991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52629/devtools/browser/ac6461b6-3bc3-4673-b066-dc1f827cad6b
+1688139306386	Marionette	INFO	Stopped listening on port 52636
+1688139306898	addons.xpi	ERROR	Failed to download system add-on addons-restricted-domains@mozilla.com: Error: Failed downloading via ServiceRequest, status: 0, channelStatus: 2152398868, errorCode: 2, reason: error(resource://gre/modules/addons/ProductAddonChecker.jsm:464:16) JS Stack trace: fail@ProductAddonChecker.jsm:464:16
+1688139325037	geckodriver	INFO	Listening on 127.0.0.1:52693
+1688139325559	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52694" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofilea1AnrX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688139326115	Marionette	INFO	Marionette enabled
+2023-06-30 19:05:26.266 plugin-container[6909:51826] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 19:05:26.267 plugin-container[6909:51826] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 19:05:26.270 plugin-container[6909:51826] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 19:05:26.270 plugin-container[6909:51826] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 19:05:26.270 plugin-container[6909:51829] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 19:05:26.270 plugin-container[6909:51829] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1688139326382	Marionette	INFO	Listening on port 52703
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:52694
+Read port: 52703
+1688139326661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52694/devtools/browser/0c176456-ea09-4df1-96de-b3bb0bfa088c
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+1688139373243	addons.xpi	ERROR	Failed to download system add-on addons-restricted-domains@mozilla.com: Error: Failed downloading via ServiceRequest, status: 0, channelStatus: 2147500036, errorCode: 2, reason: error(resource://gre/modules/addons/ProductAddonChecker.jsm:464:16) JS Stack trace: fail@ProductAddonChecker.jsm:464:16
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+1688139478296	geckodriver	INFO	Listening on 127.0.0.1:52820
+1688139478813	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52821" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofiledV0mnq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688139479351	Marionette	INFO	Marionette enabled
+1688139479446	Marionette	INFO	Listening on port 52829
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-06-30 19:07:59.486 plugin-container[6942:53246] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 19:07:59.486 plugin-container[6942:53246] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 19:07:59.491 plugin-container[6942:53246] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 19:07:59.491 plugin-container[6942:53246] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 19:07:59.491 plugin-container[6942:53244] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 19:07:59.491 plugin-container[6942:53244] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 52829
+WebDriver BiDi listening on ws://127.0.0.1:52821
+1688139479799	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52821/devtools/browser/be1b00f6-3b61-473b-9089-f785833fad04
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2396))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2396))
+JavaScript error: https://cse.sbu.ac.ir/o/ir.sain.university.people/js/faculty/custom.js?browserId=firefox&minifierType=js&languageId=fa_IR&b=7307&t=1687345872000, line 3: TypeError: page is null
+1688139740755	geckodriver	INFO	Listening on 127.0.0.1:53048
+1688139741270	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53049" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofile5wIjv4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688139741824	Marionette	INFO	Marionette enabled
+1688139741931	Marionette	INFO	Listening on port 53058
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-06-30 19:12:21.977 plugin-container[7104:56536] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 19:12:21.977 plugin-container[7104:56536] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 19:12:21.982 plugin-container[7104:56536] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 19:12:21.982 plugin-container[7104:56536] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 19:12:21.982 plugin-container[7104:56534] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 19:12:21.982 plugin-container[7104:56534] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 53058
+WebDriver BiDi listening on ws://127.0.0.1:53049
+1688139742097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53049/devtools/browser/82011eef-e9c5-41c3-b067-e6158fad8587
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+1688139781521	Marionette	INFO	Stopped listening on port 53058
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1688139793948	geckodriver	INFO	Listening on 127.0.0.1:53120
+1688139794463	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53121" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofile0KV3wf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688139794992	Marionette	INFO	Marionette enabled
+2023-06-30 19:13:15.132 plugin-container[7141:57579] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 19:13:15.132 plugin-container[7141:57579] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 19:13:15.137 plugin-container[7141:57579] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 19:13:15.137 plugin-container[7141:57579] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 19:13:15.137 plugin-container[7141:57584] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 19:13:15.137 plugin-container[7141:57584] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1688139795255	Marionette	INFO	Listening on port 53131
+Read port: 53131
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:53121
+1688139795351	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53121/devtools/browser/a1449757-c806-42ad-969a-382294788ee2
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+1688139813658	Marionette	INFO	Stopped listening on port 53131
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: "Error writing response to: getApplied"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Attempted to write a response containing a destroyed actor"
+console.error: (new Error("Attempted to write a response containing a destroyed actor", "resource://devtools/shared/protocol/types.js", 358))
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+1688139959946	geckodriver	INFO	Listening on 127.0.0.1:53257
+1688139960466	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53258" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofilelqwExv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688139960912	Marionette	INFO	Marionette enabled
+2023-06-30 19:16:01.047 plugin-container[7192:59200] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 19:16:01.048 plugin-container[7192:59200] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 19:16:01.050 plugin-container[7192:59200] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 19:16:01.051 plugin-container[7192:59200] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 19:16:01.051 plugin-container[7192:59198] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 19:16:01.051 plugin-container[7192:59198] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1688139961154	Marionette	INFO	Listening on port 53265
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 53265
+WebDriver BiDi listening on ws://127.0.0.1:53258
+1688139961253	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53258/devtools/browser/38934e03-d9ad-4922-bb6a-99064162ee7b
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+1688140132343	geckodriver	INFO	Listening on 127.0.0.1:53453
+1688140132865	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53454" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofileOYWSOs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688140133464	Marionette	INFO	Marionette enabled
+2023-06-30 19:18:53.610 plugin-container[7282:61006] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 19:18:53.610 plugin-container[7282:61006] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 19:18:53.613 plugin-container[7282:61006] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 19:18:53.613 plugin-container[7282:61006] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 19:18:53.613 plugin-container[7282:61011] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 19:18:53.613 plugin-container[7282:61011] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1688140133713	Marionette	INFO	Listening on port 53461
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:53454
+Read port: 53461
+1688140133876	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53454/devtools/browser/1775656e-bfc2-4eea-a1ef-16fa4b2dce12
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+1688140242147	geckodriver	INFO	Listening on 127.0.0.1:53555
+1688140242671	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53556" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofileWIaTIJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688140243319	Marionette	INFO	Marionette enabled
+2023-06-30 19:20:43.456 plugin-container[7337:62216] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 19:20:43.456 plugin-container[7337:62216] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 19:20:43.465 plugin-container[7337:62216] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 19:20:43.465 plugin-container[7337:62216] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 19:20:43.465 plugin-container[7337:62221] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 19:20:43.465 plugin-container[7337:62221] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1688140243551	Marionette	INFO	Listening on port 53563
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 53563
+WebDriver BiDi listening on ws://127.0.0.1:53556
+1688140243649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53556/devtools/browser/a043921e-c1ce-4097-8666-0d422af352e5
+1688140267951	Marionette	INFO	Stopped listening on port 53563
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
