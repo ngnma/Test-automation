@@ -30440,3 +30440,22 @@ interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mj
 webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
 1688110474293	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
 1688110476631	Marionette	INFO	Stopped listening on port 50290
+1688110559337	geckodriver	INFO	Listening on 127.0.0.1:50462
+1688110559857	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50463" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/bf/9616ns414yg2qn2p8czl2sr00000gn/T/rust_mozprofilegca46x"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688110560297	Marionette	INFO	Marionette enabled
+2023-06-30 11:06:00.426 plugin-container[7248:51263] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 11:06:00.426 plugin-container[7248:51263] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 11:06:00.429 plugin-container[7248:51263] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 11:06:00.429 plugin-container[7248:51263] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-30 11:06:00.429 plugin-container[7248:51261] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-30 11:06:00.429 plugin-container[7248:51261] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1688110560533	Marionette	INFO	Listening on port 50470
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 50470
+WebDriver BiDi listening on ws://127.0.0.1:50463
+1688110560628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50463/devtools/browser/ac993d72-ef58-48c6-bb17-160a6c0c899e
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
